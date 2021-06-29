@@ -1,4 +1,4 @@
-# webrtc-
+# webrtc
 ## How to run the project?
 
 1. Clone this repository in your local system.
